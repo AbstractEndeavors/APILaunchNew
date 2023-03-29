@@ -1,1 +1,0 @@
-rpcVal = {"netName": "Arbitrum", "nativeCurrency": "Arbitrum", "network": "Mainnet", "RPC": "https://rpc.ankr.com/arbitrum", "chainId": "42161", "blockExplorer": "https://arbiscan.io/"}
